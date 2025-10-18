@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <h1>Joint</h1>
+  <p><b>Your trusted marketplace for connecting with skilled tradespeople.</b></p>
+  <p>Find reliable professionals for plumbing, electrical work, carpentry, HVAC, and more in your local area.</p>
+</div>
 
-## Getting Started
+---
 
-First, run the development server:
+## 🚀 About Joint
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Joint is an innovative marketplace platform that bridges the gap between homeowners and skilled tradespeople in their local communities. Whether you need emergency plumbing repairs, electrical work, carpentry services, or any other home service, Joint connects you with trusted, verified professionals who can get the job done right.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Our platform combines the convenience of modern technology with the reliability of skilled craftsmanship, making it easier than ever to find qualified professionals for your home improvement projects. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Key Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Smart Matching**: Advanced algorithms connect you with the most qualified professionals in your area
+- **Verified Professionals**: All tradespeople undergo thorough background checks and verification
+- **Transparent Pricing**: Get clear, upfront pricing before committing to any service
+- **Real Reviews**: Read genuine reviews from homeowners who have used each professional's services
+- **Safe Payments**: Secure payment processing with funds held until services are completed to your satisfaction
+- **Flexible Scheduling**: Book services at your convenience with flexible scheduling options
 
-## Learn More
+## 🏗️ Technologies Used
 
-To learn more about Next.js, take a look at the following resources:
+- **Frontend**: Next.js 15.5.6, TypeScript, React
+- **Styling**: Material UI (MUI), Tailwind CSS
+- **APIs**: RESTful API architecture
+- **Authentication**: Custom authentication system
+- **UI/UX**: Framer Motion for smooth animations, responsive design
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p align="center">
+  <i>Joint - Connecting homeowners with skilled tradespeople since 2025</i>
+</p>
